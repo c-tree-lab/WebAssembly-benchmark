@@ -12,6 +12,6 @@
     "babel-preset-es2015": "^6.24.1"
   },
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^14.3.3"
   }
 }
