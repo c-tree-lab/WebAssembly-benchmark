@@ -11,6 +11,6 @@
     "markdown-it": "^12.3.2"
   },
   "devDependencies": {
-    "standard": "^14.3.3"
+    "standard": "^17.1.2"
   }
 }
